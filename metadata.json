@@ -1,0 +1,5 @@
+{
+  "name": "Kumho Animal Hospital AI Vet Assistant",
+  "description": "An application for Kumho Animal Hospital to input patient information, upload test results, and receive an AI-generated analysis report. The report can be downloaded as an HTML or image file.",
+  "requestFramePermissions": []
+}
